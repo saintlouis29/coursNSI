@@ -1,0 +1,16 @@
+// Arbre binaire parfait
+digraph {
+	A
+	B
+	C
+	D
+	E
+	F
+	G
+	A -> B
+	A -> C
+	B -> D
+	B -> E
+	C -> F
+	C -> G
+}

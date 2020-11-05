@@ -1,0 +1,10 @@
+// Arbre binaire dégénéré
+digraph {
+	A
+	B
+	C
+	D
+	A -> B
+	B -> C
+	C -> D
+}

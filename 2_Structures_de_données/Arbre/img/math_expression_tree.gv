@@ -1,0 +1,30 @@
+// Arbre de calcul
+digraph {
+	A [label=2]
+	B [label="+"]
+	C [label=x]
+	D [label="*"]
+	E [label=3]
+	F [label="-"]
+	G [label=4]
+	H [label="*"]
+	I [label=x]
+	J [label="+"]
+	K [label=1]
+	J -> F
+	F -> D
+	D -> B
+	B -> A
+	B -> C
+	D -> E
+	F -> H
+	H -> G
+	H -> I
+	J -> K
+	A [fillcolor=green style=filled]
+	C [fillcolor=green style=filled]
+	E [fillcolor=green style=filled]
+	G [fillcolor=green style=filled]
+	I [fillcolor=green style=filled]
+	K [fillcolor=green style=filled]
+}
