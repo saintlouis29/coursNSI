@@ -131,4 +131,3 @@ dmypy.json
 # Ignoring directories
 # Both the directory itself and its contents will be ignored.
 **/.ipynb_checkpoints/
-
