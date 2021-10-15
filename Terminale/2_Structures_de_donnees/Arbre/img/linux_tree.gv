@@ -1,0 +1,28 @@
+// Arborescence GNU/Linux
+digraph {
+	A [label="/"]
+	B [label="/bin"]
+	C [label="/boot"]
+	D [label="/dev"]
+	E [label="/etc"]
+	F [label="/home"]
+	G [label="/gerard"]
+	H [label="/marcel"]
+	I [label="/lib"]
+	J [label="/usr"]
+	K [label="/bin"]
+	L [label="/share"]
+	M [label="/sbin"]
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+	A -> F
+	F -> G
+	F -> H
+	A -> I
+	A -> J
+	J -> K
+	J -> L
+	J -> M
+}
