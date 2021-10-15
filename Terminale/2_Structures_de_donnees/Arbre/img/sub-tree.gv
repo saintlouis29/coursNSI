@@ -1,5 +1,5 @@
 digraph {
-	A [label="A (racine)"]
+	A
 	B
 	C
 	D

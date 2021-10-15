@@ -1,13 +1,13 @@
 // Hauteur et profondeur
 digraph {
-	A [label="p=0, h=4"]
-	B [label="p=1, h=3"]
-	C [label="p=1, h=3"]
-	D [label="p=2, h=2"]
-	E [label="p=2, h=2"]
-	F [label="p=2, h=2"]
-	G [label="p=3, h=1"]
-	H [label="p=3, h=1"]
+	A [label="p=0, h=3"]
+	B [label="p=1, h=2"]
+	C [label="p=1, h=2"]
+	D [label="p=2, h=1"]
+	E [label="p=2, h=1"]
+	F [label="p=2, h=1"]
+	G [label="p=3, h=0"]
+	H [label="p=3, h=0"]
 	A -> B
 	A -> C
 	B -> D
