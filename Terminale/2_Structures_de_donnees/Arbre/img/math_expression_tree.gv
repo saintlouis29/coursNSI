@@ -2,13 +2,13 @@
 digraph {
 	A [label=2]
 	B [label="+"]
-	C [label=x]
-	D [label="*"]
+	C [label=9]
+	D [label=x]
 	E [label=3]
 	F [label="-"]
 	G [label=4]
-	H [label="*"]
-	I [label=x]
+	H [label=x]
+	I [label=7]
 	J [label="+"]
 	K [label=1]
 	J -> F
